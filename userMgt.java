@@ -3,3 +3,4 @@ simon
 dominion
 aya
 obi
+manager
