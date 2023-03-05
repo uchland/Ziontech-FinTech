@@ -4,3 +4,4 @@ dominion
 aya
 obi
 manager
+bug removed
